@@ -1,0 +1,21 @@
+.nome {
+  color: #ff0000;
+
+  /* Tipos de fontes: Busca a primeira, se não encontrar procura a segunda, etc..
+  Na última opção sempre deixar uma fonte genérica (ex.: sans-serif)
+  Em casos de nomes compostos usar parênteses. */
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  font-size: 26px;
+  font-style: italic;
+  font-weight: bold;
+
+  text-decoration: underline;
+  text-align: center;
+
+  /* Forma resumida: font */
+  /*font: italic bold 26px "Trebuchet MS", Arial, sans-serif;*/
+}
+
+.segmento {
+  font-family: Palatino, serif;
+}

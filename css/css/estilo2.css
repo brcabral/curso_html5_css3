@@ -1,0 +1,29 @@
+/* Seletores descendentes */
+/*
+.missao strong {
+	color: red;
+}
+
+article strong {
+	color: blue;
+}
+
+article .missao strong {
+	color: green;
+}
+*/
+
+/* Descendentes direto - usa o sinal de maior entre os seletores. */
+/*
+article > .importante {
+	color: red;
+}
+
+article > .importante > strong {
+	color: red;
+}
+*/
+
+article .importante > strong {
+	color: red;
+}

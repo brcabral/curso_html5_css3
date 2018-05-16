@@ -1,0 +1,28 @@
+/* seletor por id - usa o sustenido antes do seletor.
+Pode especificar a tag ou não: h1#titulo ou #titulo */
+#titulo {
+  color: blue;
+}
+
+/* seletor por classe - usa o ponto antes do seletor
+Pode especificar a tag ou não: p.vermelho ou .vermelho */
+.destaque {
+  color: red;
+}
+
+.missao {
+  font-family: Arial;
+}
+
+/* seletor por id - Não há prefixo. */
+h1 {
+  font-family: Verdana;
+}
+
+/* Agrupar seletores - separa os seletores com uma vírgula */
+
+/*
+#titulo, .missao {
+  font-family: Arial;
+}
+*/

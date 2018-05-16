@@ -1,0 +1,24 @@
+.caixa1 {
+  color: white;
+  background-color: blue;
+}
+
+.caixa2 {
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 0, 0);
+}
+
+.caixa3 {
+  color: rgb(255, 255, 255);;
+  background-color: rgb(255, 200, 0);;
+}
+
+.caixa4 {
+  color: #ddff00;
+  background-color: #ff00c8;
+}
+
+.caixa5 {
+  color: #000;
+  background-color: #df0;
+}
